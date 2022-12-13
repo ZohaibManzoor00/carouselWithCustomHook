@@ -1,1 +1,1 @@
-# Dynamic carousel using a custom - useCarousel 
+# Dynamic carousel using a custom hook: useCarousel 
